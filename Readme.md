@@ -1,6 +1,6 @@
 # Negociações
 
-![Negociações](./project-image.jpeg)
+![image](https://user-images.githubusercontent.com/39086256/185241001-953e82c3-6646-4ed2-8aa1-e835f31bf681.png)
 
 ## Visão geral do projeto
 Neste projeto para estudo de javascript foi-se criado um cadastro de negociações de bolsa de valores. Cadastraremos novas negociações, inclusive, elas serão importadas de serviços especializados, tudo aplicando o paradigma funcional e orientado a objetos ao, mesmo tempo, utilizando o melhor dos dois mundos.
