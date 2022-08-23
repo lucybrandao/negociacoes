@@ -72,6 +72,18 @@
             }
         }
 
+        ConnectionFactory
+            .getConnection()
+            .then(connection => {
+                // usa a conexão
+            });
+        
+        ConnectionFactory
+            .getConnection()
+            .then(connection => {
+                // a conexão tem que ser a mesma utilizada anteriormente
+            });
+
     </script>
 </body>
 </html>
