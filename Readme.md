@@ -20,4 +20,7 @@ No terminal do seu projeto, execute o comando:
 
 Depois, basta baixar o projeto e abrir o arquivo `index.html` em seu browser.
 
-font: 'https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/'
+font:
+- https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/
+- https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2
+- https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
