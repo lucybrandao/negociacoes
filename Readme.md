@@ -14,13 +14,23 @@ O projeto foi criado com:
 * Bootstrap
 
 ## Setup
-No terminal do seu projeto, execute o comando:
+No terminal do seu projeto, execute o comando (nas pastas `/client` e `/server`):
 
 `npm install`
 
-Depois, basta baixar o projeto e abrir o arquivo `index.html` em seu browser.
+Dentro da pasta `/client` executar o comando:
 
-font:
+`npm run build`
+
+Depois, executar dentro da pasta `/server` o comando:
+
+`npm start`
+
+O projeto ficará aberto na porta 3000:
+
+http://localhost:3000/
+
+## Fontes
 - https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/
 - https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2
 - https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
