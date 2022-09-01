@@ -20,7 +20,7 @@ No terminal do seu projeto, execute o comando (nas pastas `/client` e `/server`)
 
 Dentro da pasta `/client` executar o comando:
 
-`npm run build`
+`npm run watch`
 
 Depois, executar dentro da pasta `/server` o comando:
 
