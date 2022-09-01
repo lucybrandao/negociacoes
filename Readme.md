@@ -18,11 +18,11 @@ No terminal do seu projeto, execute o comando (nas pastas `/client` e `/server`)
 
 `npm install`
 
-Dentro da pasta `/client` executar o comando:
+Dentro da pasta `/client` executar o comando (para rodar o compilador babel em tempo real):
 
 `npm run watch`
 
-Depois, executar dentro da pasta `/server` o comando:
+Depois, executar dentro da pasta `/server` o comando (para subir o servidor node):
 
 `npm start`
 
