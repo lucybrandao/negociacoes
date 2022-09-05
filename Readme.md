@@ -7,6 +7,10 @@ Neste projeto para estudo de javascript foi-se criado um cadastro de negociaçõ
 
 Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido, mas é o suficiente para aplicarmos novos recursos da linguagem JavaScript, ou ECMAScript 2015 (ES6), tecnicamente falando. Além disso, organizaremos nosso código no modelo MVC (Model-View-Controller), aplicaremos padrões de projeto, programaremos assincronamente com promises, renderizaremos templates e trabalharemos com proxies, entre outras coisas.
 
+#### Ver também:
+- [lucybrandao / negociacoes-webpack](https://github.com/lucybrandao/negociacoes-webpack)
+- [lucybrandao / negociacoes-typescript](https://github.com/lucybrandao/negociacoes-typescript)
+
 ## Tecnologias
 O projeto foi criado com:
 * Javascript
