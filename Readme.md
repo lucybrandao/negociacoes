@@ -41,6 +41,6 @@ O projeto ficará aberto na porta 3000.
 http://localhost:3000/
 
 ## Fontes
-- https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/
-- https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2
-- https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
+- [Alura / JavaScript: conhecendo o Browser e padrões de projeto](https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-1/)
+- [Alura / JavaScript: aprofundando em MVC, padrão Proxy e Factory](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-2)
+- [Alura / JavaScript: salvando dados localmente com IndexedDB](https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador)
