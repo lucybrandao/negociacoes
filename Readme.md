@@ -1,4 +1,4 @@
-# Negociações :chart_with_upwards_trend:
+# Negociações :chart_with_upwards_trend: (🇧🇷)
 
 ![image](https://user-images.githubusercontent.com/39086256/187955230-0b8131c6-298b-4e65-bead-0f757a940afd.png)
 
